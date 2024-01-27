@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Arina
+- Just an ordinary person with a lot of curiosity
 
 <!---
 afr-arina98/afr-arina98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
